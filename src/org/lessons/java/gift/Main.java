@@ -1,4 +1,4 @@
-package org.lessons.java;
+package org.lessons.java.gift;
 
 import java.util.ArrayList;
 import java.util.List;

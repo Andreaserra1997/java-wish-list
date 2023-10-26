@@ -1,4 +1,4 @@
-package org.lessons.java;
+package org.lessons.java.gift;
 
 public class Gift {
     //ATTRIBUTI
